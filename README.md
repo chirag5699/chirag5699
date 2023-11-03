@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag5699" alt="chirag5699" /></a> </p>
 
-- 🔭 I’m currently working on [E_commers Project](https://github.com/chirag5699/live_project)
+- 🔭 I’m currently working on [E_commers Project] (https://github.com/chirag5699/live_project)
 
 - 📫 How to reach me **chiragkatrodiya99@gmail.com**
 
